@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hi, I'm Ashish Kumar🦅
+📍 Location: India 
 
-<!--
-**Ashish Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+🚀 About Me 
+💻 Passionate about Programming
+🌱 Currently improving my coding skills and building projects
+🎯 Goal: Become a skilled software developer 
+⚡ Love building AI & real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,Python,SQL
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills 
+Programming: Java,Python... 
+Web: HTML / CSS / JavaScript 
+Tools: VS Code,Git & GitHub
+
+📂 Projects
+🧠 Face Recognition System
+🔹 A Python-based Face Recognition project
+🔹 Uses OpenCV and machine learning for detecting and recognizing faces
+🔹 Can identify known faces in real-time
+
+Tech Used:
+Python
+OpenCV
+NumPy
+Face Recognition Library
+
+⭐ “Code. Learn. Build. Repeat.”
